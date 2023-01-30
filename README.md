@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+HEAD
 # prework-study-guide
 A study guide for course pre-work
 
 =======
->>>>>>> 9a66466ea3e970a83e321b1d62b7ce6b4a60981e
 # Prework Study Guide Webpage
 
 ## Description
